@@ -1,0 +1,18 @@
+.socicon-twitter{
+	background-image:url(https://raw.githubusercontent.com/Xeroque/iconsforpak/996495b98cd2c309c9197246f69d0ceadbc38be3/Logos/Twitter.svgforpak/996495b98cd2c309c9197246f69d0ceadbc38be3/Logos/Telegram.svg);
+}
+.socicon-instagram{
+	background-image:url(https://raw.githubusercontent.com/Xeroque/iconsforpak/996495b98cd2c309c9197246f69d0ceadbc38be3/Logos/IG.svg);
+}
+.socicon-facebook{
+	background-image:url(https://raw.githubusercontent.com/Xeroque/iconsforpak/996495b98cd2c309c9197246f69d0ceadbc38be3/Logos/Facebook.svg);
+}
+.socicon-telegram{
+	background-image:url(https://raw.githubusercontent.com/Xeroque/iconsforpak/996495b98cd2c309c9197246f69d0ceadbc38be3/Logos/Telegram.svg);
+}
+.socicon-pinterest{
+	background-image:url(https://raw.githubusercontent.com/Xeroque/iconsforpak/996495b98cd2c309c9197246f69d0ceadbc38be3/Logos/Pinterest.svg);
+}
+.socicon-patreon{
+	background-image:url(https://raw.githubusercontent.com/Xeroque/iconsforpak/996495b98cd2c309c9197246f69d0ceadbc38be3/Logos/Patreon.svg);
+}
