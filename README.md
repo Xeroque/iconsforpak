@@ -1,2 +1,2 @@
 # iconsforpak
-Icons for Archillects website
+Icons for Archillect's website
