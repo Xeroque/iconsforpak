@@ -1,18 +1,18 @@
 .socicon-twitter{
-	background-image:url(https://raw.githubusercontent.com/Xeroque/iconsforpak/996495b98cd2c309c9197246f69d0ceadbc38be3/Logos/Twitter.svgforpak/996495b98cd2c309c9197246f69d0ceadbc38be3/Logos/Telegram.svg);
+	background-imageurl('httpsraw.githubusercontent.comXeroqueiconsforpak9a27c4a51e10dad8d49dda1d92f5851eda6f4dadLogosTwitter%20(2).svg');
 }
 .socicon-instagram{
-	background-image:url(https://raw.githubusercontent.com/Xeroque/iconsforpak/996495b98cd2c309c9197246f69d0ceadbc38be3/Logos/IG.svg);
+	background-imageurl('httpsraw.githubusercontent.comXeroqueiconsforpak9a27c4a51e10dad8d49dda1d92f5851eda6f4dadLogosIG%20(2).svg');
 }
 .socicon-facebook{
-	background-image:url(https://raw.githubusercontent.com/Xeroque/iconsforpak/996495b98cd2c309c9197246f69d0ceadbc38be3/Logos/Facebook.svg);
+	background-imageurl('httpsraw.githubusercontent.comXeroqueiconsforpakb82e609cb0057efa2ed805d536a3cee7f3ba9d02LogosFacebook%20(2).svg');
 }
 .socicon-telegram{
-	background-image:url(https://raw.githubusercontent.com/Xeroque/iconsforpak/996495b98cd2c309c9197246f69d0ceadbc38be3/Logos/Telegram.svg);
+	background-imageurl('httpsraw.githubusercontent.comXeroqueiconsforpakb82e609cb0057efa2ed805d536a3cee7f3ba9d02LogosTelegram%20(2).svg');
 }
 .socicon-pinterest{
-	background-image:url(https://raw.githubusercontent.com/Xeroque/iconsforpak/996495b98cd2c309c9197246f69d0ceadbc38be3/Logos/Pinterest.svg);
+	background-imageurl('httpsraw.githubusercontent.comXeroqueiconsforpakb82e609cb0057efa2ed805d536a3cee7f3ba9d02LogosPinterest%20(2).svg');
 }
 .socicon-patreon{
-	background-image:url(https://raw.githubusercontent.com/Xeroque/iconsforpak/996495b98cd2c309c9197246f69d0ceadbc38be3/Logos/Patreon.svg);
+	background-imageurl('httpsraw.githubusercontent.comXeroqueiconsforpakb82e609cb0057efa2ed805d536a3cee7f3ba9d02LogosPatreon%20(2).svg');
 }
